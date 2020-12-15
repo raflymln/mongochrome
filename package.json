@@ -1,5 +1,5 @@
 {
-    "name": "mongochrome",
+    "name": "@raflymln/mongochrome",
     "version": "1.0.0",
     "description": "Simple and Quick MongoDB Wrapper with Caching System.",
     "main": "lib/Base.js",
