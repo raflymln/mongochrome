@@ -1,38 +1,30 @@
 {
-    "_from": "github:raflymln/mongochrome",
-    "_id": "@raflymln/mongochrome@1.0.0",
-    "_inBundle": false,
-    "_integrity": "",
-    "_location": "/@raflymln/mongochrome",
-    "_phantomChildren": {},
-    "_requested": {
-        "type": "git",
-        "raw": "raflymln/mongochrome",
-        "rawSpec": "raflymln/mongochrome",
-        "saveSpec": "github:raflymln/mongochrome",
-        "fetchSpec": null,
-        "gitCommittish": null
-    },
-    "_requiredBy": [
-        "#USER",
-        "/"
-    ],
-    "_resolved": "github:raflymln/mongochrome#7e618f6a03914a33bd06c0c634306e1dfc3c4a0d",
-    "_spec": "raflymln/mongochrome",
-    "_where": "C:\\Users\\raflymaulana\\oxo",
-    "author": {
-        "name": "Rafly Maulana"
-    },
-    "bundleDependencies": false,
-    "deprecated": false,
-    "description": "Simple and Quick MongoDB Wrapper with Caching System.",
-    "license": "ISC",
-    "main": "lib/Base.js",
     "name": "mongochrome",
+    "author": "Rafly Maulana",
+    "version": "1.0.0",
+    "description": "Simple and Quick MongoDB Wrapper with Caching System.",
+    "license": "MIT",
+    "main": "lib/Base.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "version": "1.0.0",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/raflymln/mongochrome.git"
+    },
+    "keywords": [
+        "mongochrome",
+        "mongodb",
+        "mongoose",
+        "wrapper",
+        "database",
+        "quickmongo",
+        "quickdb"
+    ],
+    "homepage": "https://mongochrome.my.id",
+    "bugs": {
+        "url": "https://github.com/raflymln/mongochrome/issues"
+    },
     "dependencies": {
         "axios": "^0.21.0",
         "clean-jsdoc-theme": "github:raflymln/clean-jsdoc-theme",
