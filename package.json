@@ -34,7 +34,11 @@
     },
     "version": "1.0.0",
     "dependencies": {
+        "axios": "^0.21.0",
         "clean-jsdoc-theme": "github:raflymln/clean-jsdoc-theme",
-        "jsdoc": "^3.6.6"
+        "fs": "0.0.1-security",
+        "jsdoc": "^3.6.6",
+        "path": "^0.12.7",
+        "simpleflakes": "^2.1.0"
     }
 }
