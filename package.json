@@ -1,41 +1,40 @@
 {
-  "_from": "github:raflymln/mongochrome",
-  "_id": "@raflymln/mongochrome@1.0.0",
-  "_inBundle": false,
-  "_integrity": "",
-  "_location": "/@raflymln/mongochrome",
-  "_phantomChildren": {},
-  "_requested": {
-    "type": "git",
-    "raw": "raflymln/mongochrome",
-    "rawSpec": "raflymln/mongochrome",
-    "saveSpec": "github:raflymln/mongochrome",
-    "fetchSpec": null,
-    "gitCommittish": null
-  },
-  "_requiredBy": [
-    "#USER",
-    "/"
-  ],
-  "_resolved": "github:raflymln/mongochrome#7e618f6a03914a33bd06c0c634306e1dfc3c4a0d",
-  "_spec": "raflymln/mongochrome",
-  "_where": "C:\\Users\\raflymaulana\\oxo",
-  "author": {
-    "name": "Rafly Maulana"
-  },
-  "bundleDependencies": false,
-  "deprecated": false,
-  "description": "Simple and Quick MongoDB Wrapper with Caching System.",
-  "license": "ISC",
-  "main": "lib/Base.js",
-  "name": "@raflymln/mongochrome",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "version": "1.0.0",
-  "dependencies": {
-    "@pixi/jsdoc-template": "^2.6.0",
-    "clean-jsdoc-theme": "^3.0.3",
-    "jsdoc-template": "github:braintree/jsdoc-template"
-  }
+    "_from": "github:raflymln/mongochrome",
+    "_id": "@raflymln/mongochrome@1.0.0",
+    "_inBundle": false,
+    "_integrity": "",
+    "_location": "/@raflymln/mongochrome",
+    "_phantomChildren": {},
+    "_requested": {
+        "type": "git",
+        "raw": "raflymln/mongochrome",
+        "rawSpec": "raflymln/mongochrome",
+        "saveSpec": "github:raflymln/mongochrome",
+        "fetchSpec": null,
+        "gitCommittish": null
+    },
+    "_requiredBy": [
+        "#USER",
+        "/"
+    ],
+    "_resolved": "github:raflymln/mongochrome#7e618f6a03914a33bd06c0c634306e1dfc3c4a0d",
+    "_spec": "raflymln/mongochrome",
+    "_where": "C:\\Users\\raflymaulana\\oxo",
+    "author": {
+        "name": "Rafly Maulana"
+    },
+    "bundleDependencies": false,
+    "deprecated": false,
+    "description": "Simple and Quick MongoDB Wrapper with Caching System.",
+    "license": "ISC",
+    "main": "lib/Base.js",
+    "name": "@raflymln/mongochrome",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "version": "1.0.0",
+    "dependencies": {
+        "clean-jsdoc-theme": "^3.0.3",
+        "jsdoc": "^3.6.6"
+    }
 }
