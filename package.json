@@ -34,7 +34,7 @@
     },
     "version": "1.0.0",
     "dependencies": {
-        "clean-jsdoc-theme": "^3.0.3",
+        "clean-jsdoc-theme": "github:raflymln/clean-jsdoc-theme",
         "jsdoc": "^3.6.6"
     }
 }
