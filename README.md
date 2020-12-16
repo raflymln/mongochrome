@@ -21,6 +21,12 @@ If you have any contributions, feel free to do a pull request against the *maste
 4. Somewhat similar to *Quickmongo* / *Quick.db*
 5. Easy to use
 
+## Installation
+[**📥 NPM PACKAGE**](https://www.npmjs.com/package/mongochrome)
+```
+npm install mongochrome
+```
+
 ## Usage Example
 ```js
 const Mongochrome = require('mongoose');
