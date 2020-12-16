@@ -7,6 +7,7 @@ Mongochrome is a simple and fast MongoDB wrapper that **cached it's data**, so t
 ## Links
 1. Documentation: [mongochrome.my.id](https://mongochrome.my.id/)
 2. Discord Support Server: [discord.gg/7z4CwpMF4w](https://discord.gg/7z4CwpMF4w)
+3. NPM PACKAGE: [npmjs.com/package/mongochrome](https://www.npmjs.com/package/mongochrome)
 3. Github: [github.com/raflymln/mongochrome](https://github.com/raflymln/mongochrome)
 4. Bug Report: [github.com/raflymln/mongochrome/issues](https://github.com/raflymln/mongochrome/issues)
 
