@@ -1,3 +1,5 @@
+![Mongochrome](https://i.ibb.co/5Gd7rpX/Untitled-design-2-removebg-preview.png)
+
 # Mongochrome
 Mongochrome is a simple and fast MongoDB wrapper that **cached it's data**, so that you don't need to always fetch it from the server! Also this package is super **beginner friendly**.
 
