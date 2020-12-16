@@ -28,7 +28,7 @@
     "description": "Simple and Quick MongoDB Wrapper with Caching System.",
     "license": "ISC",
     "main": "lib/Base.js",
-    "name": "@raflymln/mongochrome",
+    "name": "mongochrome",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
