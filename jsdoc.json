@@ -1,6 +1,6 @@
 {
     "source": {
-        "include": ["../lib", "../package.json", "../README.md"],
+        "include": ["lib", "package.json", "README.md"],
         "includePattern": ".js$",
         "excludePattern": "(node_modules/|docs)"
     },
@@ -9,11 +9,11 @@
 
     "opts": {
         "encoding": "utf8",
-        "readme": "../README.md",
+        "readme": "./README.md",
         "destination": "/",
         "recurse": true,
         "verbose": true,
-        "template": "../node_modules/clean-jsdoc-theme",
+        "template": "./node_modules/clean-jsdoc-theme",
         "theme_opts": {
             "theme": "dark",
             "title": "Mongochrome",
