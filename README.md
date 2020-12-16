@@ -2,6 +2,7 @@
 Mongochrome is a simple and fast MongoDB wrapper that **cached it's data**, so that you don't need to always fetch it from the server! Also this package is super **beginner friendly**.
 
 **[Notice]** This package is inspired from Quickmongo package, so that you'll find it's similar in some way.
+
 **[IMPORTANT]** Since this package is new, some features may be bugging, feel free to ask me if you have any question or if you found any bug!
 
 ## Links
