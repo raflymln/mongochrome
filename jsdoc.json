@@ -16,12 +16,38 @@
         "template": "./node_modules/clean-jsdoc-theme",
         "theme_opts": {
             "theme": "dark",
-            "title": "Mongochrome",
+            "title": "Mongo Chrome",
             "menu": [{
-                "title": "Github",
+                "title": "🌎 Home",
+                "link": "https://mongochrome.my.id/",
+                "target": "_blank"
+            }, {
+                "title": "📥 NPM PACKAGE",
+                "link": "https://www.npmjs.com/package/mongochrome",
+                "target": "_blank"
+            }, {
+                "title": "🔗 Discord Server",
+                "link": "https://discord.gg/7z4CwpMF4w",
+                "target": "_blank"
+            }, {
+                "title": "📄 Github",
                 "link": "https://github.com/raflymln/mongochrome/",
                 "target": "_blank"
-            }]
+            }, {
+                "title": "⛔ Bug Report",
+                "link": "https://github.com/raflymln/mongochrome/issues",
+                "target": "_blank"
+            }],
+            "meta": [{
+                    "name": "author",
+                    "content": "Rafly Maulana"
+                },
+                {
+                    "name": "description",
+                    "content": "Simple and Quick MongoDB Wrapper with Caching System"
+                }
+            ],
+            "footer": "Mongochrome - Simple and Quick MongoDB Wrapper with Caching System | © 2020 Rafly Maulana"
         }
     }
 }
