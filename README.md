@@ -25,7 +25,8 @@ If you have any contributions, feel free to do a pull request against the *maste
 5. Easy to use
 
 ## Installation
-[**📥 NPM PACKAGE**](https://www.npmjs.com/package/mongochrome)
+[**📥 NPM PACKAGE**](https://www.npmjs.com/package/mongochrome) <-- Is Currently Down
+**Please Clone from github, estimated package on npm will be back in 24 hours**
 ```
 npm install mongochrome
 ```
