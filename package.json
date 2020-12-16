@@ -1,7 +1,7 @@
 {
     "name": "mongochrome",
     "author": "Rafly Maulana",
-    "version": "1.0.5",
+    "version": "1.0.0",
     "description": "Simple and Quick MongoDB Wrapper with Caching System.",
     "license": "MIT",
     "main": "lib/Base.js",
