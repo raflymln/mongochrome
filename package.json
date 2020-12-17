@@ -19,7 +19,9 @@
         "wrapper",
         "database",
         "quickmongo",
-        "quickdb"
+        "quickdb",
+        "discord",
+        "bots"
     ],
     "homepage": "https://mongochrome.my.id",
     "bugs": {
