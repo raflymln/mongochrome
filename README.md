@@ -25,10 +25,9 @@ If you have any contributions, feel free to do a pull request against the *maste
 5. Easy to use
 
 ## Installation
-[**📥 NPM PACKAGE**](https://www.npmjs.com/package/mongochrome) <-- Is Currently Down
-**Please Use from github, estimated package on npm will be back in 24 hours**
+[**📥 NPM PACKAGE**](https://www.npmjs.com/package/mongochrome)
 ```
-npm install raflymln/mongochrome
+npm install mongochrome
 ```
 
 ## Usage Example
