@@ -33,7 +33,7 @@ npm install raflymln/mongochrome
 
 ## Usage Example
 ```js
-const Mongochrome = require('mongoose');
+const Mongochrome = require('mongochrome');
 const db = Mongochrome.Connect(url, connectOptions, options);
 
 //This Function is Calling Database Class by Default
