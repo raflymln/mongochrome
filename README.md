@@ -1,3 +1,6 @@
+# DEPRECATED
+This project is no longer maintained. If there's anything useful here, feel free to take it
+
 ![Mongochrome](https://i.ibb.co/5Gd7rpX/Untitled-design-2-removebg-preview.png)
 
 # Mongochrome
